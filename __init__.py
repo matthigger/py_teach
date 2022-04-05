@@ -1,2 +1,2 @@
-from .grade_help import *
-from .ipynb_strip_copy import *
+from .grade import *
+from .jupyter_tools import *
